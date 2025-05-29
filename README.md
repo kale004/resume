@@ -1,1 +1,1 @@
-File Test
+Click the index.html.
