@@ -1,1 +1,1 @@
-This isn't necessary, it is just a test.
+This isn't necessary; it's just a test.
